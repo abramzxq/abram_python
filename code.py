@@ -1,2 +1,5 @@
 def index(request):
-  return HttpRespons('okok')
+  return HttpResponse('okok')
+
+def login(request)
+  return HttpResponse('hello')
